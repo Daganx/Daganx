@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daganx&label=Profile%20views&color=0e75b6&style=flat" alt="daganx" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](www.DaganDev.com)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Daganx/Portfolio_2024)
 
 - 🌱 I’m currently learning **React,JS,**
 
@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Senior Developers**
 
-- 👨‍💻 All of my projects are available at [www.DaganDev.com](www.DaganDev.com)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Daganx)
 
 - 💬 Ask me about **React,Js,Design,HTML,CSS**
 
 - 📫 How to reach me **dagan.letot@icloud.com**
 
-- 📄 Know about my experiences [Passionate since 6yo](Passionate since 6yo)
+- 📄 Know about my experiences [Passionate since Kid]
 
 - ⚡ Fun fact **I ride 500+km per month on my Bike**
 
