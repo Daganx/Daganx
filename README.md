@@ -3,21 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daganx&label=Profile%20views&color=0e75b6&style=flat" alt="daganx" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Daganx/Portfolio_2024)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Daganx/Portfolio2024)
 
-- 🌱 I’m currently learning **React,JS,**
-
-- 👯 I’m looking to collaborate on **Front-Dev Mission**
-
-- 🤝 I’m looking for help with **Senior Developers**
+- 🌱 I’m currently learning **React, TypeScript, TreeJS**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Daganx)
 
 - 💬 Ask me about **React,Js,Design,HTML,CSS**
 
 - 📫 How to reach me **dagan.letot@icloud.com**
-
-- 📄 Know about my experiences [Passionate since Kid]
 
 - ⚡ Fun fact **I ride 500+km per month on my Bike**
 
