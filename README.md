@@ -3,21 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daganx&label=Profile%20views&color=0e75b6&style=flat" alt="daganx" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Daganx/Portfolio2024)
+- 🔭 I’m currently working on Script to optimize my production
 
-- 🌱 I’m currently learning **React, TypeScript, TreeJS**
+- 🌱 I’m currently learning **React, TypeScript, Node**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Daganx)
 
-- 💬 Ask me about **React,Js,Design,HTML,CSS**
+- 💬 Ask me about **React,Js,Design, Node**
 
 - 📫 How to reach me **dagan.letot@icloud.com**
 
-- ⚡ Fun fact **I ride 500+km per month on my Bike**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daganletot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daganletot" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daganletot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daganletot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
